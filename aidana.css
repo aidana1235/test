@@ -1,0 +1,47 @@
+body {
+  background-image: url('https://avatars.mds.yandex.net/i?id=0a4c2c2053b1152e021a0cc17f8908a7-4526725-images-thumbs&n=13');
+  background-repeat: no-repeat;
+}
+
+h1 {
+  display: none;
+  color: bisque;
+}
+
+@media screen and (min-width: 1200px) {
+  .Huge {
+    display: block;
+  }
+
+  
+}
+
+@media screen and (max-width: 1200px) {
+  .Desktop {
+    display: block;
+  }
+
+  
+}
+@media screen and (max-width: 1000px) {
+  .Laptop {
+    display: block;
+  }
+  
+}
+@media screen and (max-width: 800px) {
+  .Tablet {
+    display: block;
+  }
+
+  
+}
+@media screen and (max-width: 500px) {
+  .Mobile {
+    display: block;
+  }
+
+
+
+  
+}
